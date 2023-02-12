@@ -3,11 +3,11 @@
 
 ![alt text](https://assets.bizclikmedia.net/1800/912bf0f6a8628ac2908cbcd11877f928:707c036dfecd051980201247b72f3bee/gettyimages-638855738-3-jpeg.webp.jpg "Data Image")
 
-## **Standard Education**
+## **Standard Education** 
 
-> The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-science) offers a Data Science program under the Faculty of Mathematics. It is available as a regular or co-op program. After _4 years_, if the student has completed all of the necessary requirements, they are able to graduate with a Bachelor of Computer Science or a Bachelor of Mathematics in Data Science.
+<img src="https://uwaterloo.ca/brand/sites/ca.brand/files/universityofwaterloo_logo_horiz_rgb.png" height="150">
 
-
+The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-science) offers a Data Science program under the Faculty of Mathematics. It is available as a regular or co-op program. After _4 years_, if the student has completed all of the necessary requirements, they are able to graduate with a Bachelor of Computer Science or a Bachelor of Mathematics in Data Science.
 
 ### **_Entrance Requirements:_**
 
@@ -32,4 +32,6 @@
 | One elective                                  | One elective                                              |
 
 ### **_Other Requirements:_**
-Should a student choose the co-op option, a work-term report will also be required.
+* After first year, most required courses will be in Statistics and Computer Science, along with additional foundational courses in Mathematics.
+* Should a student choose the co-op option, a work-term report will also be required.
+* All students must successfully complete two communications courses
