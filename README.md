@@ -46,28 +46,48 @@ The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-
 
 ### **_Mid-Level Position: [Research Data Analyst](https://ca.indeed.com/cmp/Government-of-Alberta/jobs?jk=f613f88bcf7c19cf&q=data%20analyst&l=&start=0)_**
 
+**Company:** Government Of Alberta
 
-Salary: $70,904 - $92,678
+**Salary:** $70,904 - $92,678
 
-City: Edmonton, AB
+**City:** Edmonton, AB
 
-Job Description: Your role as Research Data Analyst will lead and support quantitative and qualitative research undertaken across Government, as part of the central public engagement and public opinion research unit with Communications and Public Engagement.
+**Job Description:** Your role as Research Data Analyst will lead and support quantitative and qualitative research undertaken across Government, as part of the central public engagement and public opinion research unit with Communications and Public Engagement.
 
 Reporting to the Assistant Director of Research in Public Engagement, you are an expert in data and information analysis, with a deep understanding of quantitative and qualitative methods that support evidence-based decision-making. You will work closely with the Assistant Director of Research, Assistant Director of Public Engagement, with program staff across government, and with all CPE research vendors.
 
 You will support information sharing and research development within the department, GoA, and with other departments and external agencies. You will play a key role in analyzing and sharing data, fostering an environment of innovation and research rigour, and building analytical capacity for the Government of Alberta.
 
 
-Additional Skill Sets: 
-Creative Problem Solving: Ability to gather information from varied sources, analyze and interpret information to formulate reports and make decisions related to case planning.
+**Additional Skill Sets:**
+* _Creative Problem Solving:_ Ability to gather information from varied sources, analyze and interpret information to formulate reports and make decisions related to case planning.
 
-Agility: Ability to prioritize competing workload pressures in an effective manner and contribute to the organizational goals.
+* _Agility:_ Ability to prioritize competing workload pressures in an effective manner and contribute to the organizational goals.
 
-Drive for Results: Sets and accomplishes goals and priorities in order to deliver outcomes consistent with departmental objectives and directives.
+* _Drive for Results:_ Sets and accomplishes goals and priorities in order to deliver outcomes consistent with departmental objectives and directives.
 
-Building Collaborative Environment: Ability to work cooperatively and collaboratively with a variety of teams within the workplace, community and other Government ministries/agencies to meet client and ministry goals and objectives.
+* _Building Collaborative Environment:_ Ability to work cooperatively and collaboratively with a variety of teams within the workplace, community and other Government ministries/agencies to meet client and ministry goals and objectives.
 
-Developing Networks: Ability to interact positively, build relationships and work effectively with others.
+* _Developing Networks:_ Ability to interact positively, build relationships and work effectively with others.
 
 
-### **_Senior Level Position:_**
+### **_Senior Level Position:  [Senior Business and Systems Analyst](https://ca.indeed.com/Senior-Data-Analyst-jobs?vjk=e72b85f452286d2f)_** 
+
+**Company:** Toronto Transit Commission
+
+**Salary:** $99,717.80 - $124,724.60
+
+**City:** Toronto, ON
+
+**Job Description:** The Senior Business & System Analyst is responsible for reviewing, analyzing, documenting and evaluating business systems and user needs while serving as the key link between development and business users. The incumbent plans and conducts feasibility studies, creates project proposals, gathers, documents and validates business requirements, identifies system requirements and creates systems designs, directs system implementation and installation, and develops methods and procedures for systems of major complexity. The incumbent identifies and documents the functional and/or technical problems and devises solutions. May act as project leader or sub-section leader on large projects. On a continual basis, the incumbent expands the application use by clients, demonstrating business solutions, configuring the application, testing it, and training the clients in using the additional features.
+
+
+**Additional Skill Sets:**
+* Completion of industry-recognized business analysis and/or project management certifications (e.g. IIBA-CBAP, PMI-PBA or PMI-PMP)
+* Work as part of a team in the development and implementation of large and complex systems and prepare system specifications and documentation
+* Must possess sound business judgment; highly developed analytical and problem solving skills; excellent organizational, interviewing, verbal and written communication skills
+* Ability to occasionally supervise, lead and motivate small project teams comprised of Systems Analysts and Programmer Analysts
+* Requires progressively responsible work experience in systems analysis and design, project administration and programming
+* Demonstrated ability to function as an integral member of project team as well as individually
+* Knowledgeable of current hardware and software computer environment and project management and systems development life cycle methodology
+* Must have or rapidly acquire a comprehensive knowledge of the Ontario Human Rights Code and Related Orders including disability accommodation and accessibility requirements pertaining to passengers and employees
