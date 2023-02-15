@@ -7,7 +7,8 @@
 
 ## The Basics 
 
-
+### **_Required Education:_**
+A university education is required for this particular profession. The majority of entry-level positions require a bachelor's degree. The recommended disciplines for the bachelor’s degree include mathematics, finance, statistics, economics, or computer science. Master's or doctoral degrees are not necessary but provide data analysts more expertise and typically also guarantee larger salaries.
 
 ### **_Technical and Non-Technical Skills:_**
 
