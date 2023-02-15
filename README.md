@@ -3,10 +3,13 @@
 
 ![alt text](https://assets.bizclikmedia.net/1800/912bf0f6a8628ac2908cbcd11877f928:707c036dfecd051980201247b72f3bee/gettyimages-638855738-3-jpeg.webp.jpg "Data Image")
 
+--- 
+
+## The Basics 
 
 
 
-
+### **_Technical and Non-Technical Skills:_**
 
 | Technical Skills                            | Non-Technical Skills |
 |---------------------------------------------|----------------------|
@@ -21,7 +24,14 @@
 | Data mining                                 | Resourcefulness      |
 | Data Visualization                          | Ambition             |
 
----
+### **_Salary Range:_**
+In Toronto, Ontario, the average yearly wage for a data analyst is $64,597 with a range of $1,612 - $15,267. The average additional cash compensation for a data analyst in Toronto, Ontario is $4,961.
+* _Entry level:_ 40k to 50k
+* _Midlevel:_ 55k to 75k
+* _Senior level:_ 75k to 100k
+
+
+--- 
 
 ## **Standard Education** 
 
