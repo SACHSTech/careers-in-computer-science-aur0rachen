@@ -3,6 +3,24 @@
 
 ![alt text](https://assets.bizclikmedia.net/1800/912bf0f6a8628ac2908cbcd11877f928:707c036dfecd051980201247b72f3bee/gettyimages-638855738-3-jpeg.webp.jpg "Data Image")
 
+
+
+
+
+
+| Technical Skills                            | Non-Technical Skills |
+|---------------------------------------------|----------------------|
+| SQL                                         | Communication        |
+| Tableau®                                    | Problem-solving      |
+| Data warehousing                            | Research             |
+| Python®                                     | Attention to detail  |
+| SAS®                                        | Teamwork             |
+| Microsoft Power BI®                         | Critical Thinking    |
+| Extraction Transformation and Loading (ETL) | Business sense       |
+| Oracle® Database                            | Project management   |
+| Data mining                                 | Resourcefulness      |
+| Data Visualization                          | Ambition             |
+
 ---
 
 ## **Standard Education** 
