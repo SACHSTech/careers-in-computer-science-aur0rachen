@@ -42,7 +42,29 @@ The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-
 
 ## **Real Jobs** 
 
-### **_Entry Level Position:_**
+### **_Entry Level Position: [Energy Analyst](https://ca.indeed.com/jobs?q=Data+Analyst&l=&vjk=96a9b96b9a7a8490&advn=1684179505529221)_**
+
+**Company:** BC Non-Profit Housing Association
+
+**Salary:** $57,000–$60,000
+
+**City:** Vancouver, BC
+
+**Job Description:** This position will provide energy performance data and other technical services related to energy analysis in order to identify energy efficiency opportunities in non-profit housing at various organizations across British Columbia.
+
+**Additional Skill Sets:**
+* Sustainable Energy Management Advanced Certificate (SEMAC) through BCIT, or Master’s degree in clean energy, sustainability or data science would be an asset
+Knowledge of energy analysis, energy conservation measures, buildings, building construction,and building energy systems is required
+* Proven advanced proficiency in Microsoft Excel or equivalent
+* Experience with Energy Star Portfolio Manager, RETScreen, datasets or other energy analysis software would be an asset
+* Demonstrated skills in quantitative analysis, critical thinking and problem solving
+* Experience communicating with IT on database configuration needs would be an asset
+* Report delivery, presenting numerical and statistical information
+* Adapts for changing conditions; communicates changes and progress and meets challenges with resourcefulness
+* Looks for ways to improve process and quality; developing alternative approaches and ideas
+* Effective communication skills including verbal, written and presentation 
+* Ability to work independently and proactively with minimal guidance
+
 
 ### **_Mid-Level Position: [Research Data Analyst](https://ca.indeed.com/cmp/Government-of-Alberta/jobs?jk=f613f88bcf7c19cf&q=data%20analyst&l=&start=0)_**
 
