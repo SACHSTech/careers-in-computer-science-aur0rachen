@@ -6,6 +6,17 @@
 --- 
 
 ## The Basics 
+### **_Description of Career and Responsibilities:_**
+>Data analysts determine ways to use data to address issues and find solutions. They examine current events using computer systems and calculation applications in order to spot trends and anticipate the future. They identify, collect, analyze and interpret large sets of data. They act as investigators, deducing how things operate and assisting in the interpretation of events. It may be a rewarding, stimulating, and creative career path.
+
+Responsibilities of a data analyst may include: 
+* Working with teams comprised of other data scientists, engineers, and developers to solve problems
+* Mining, cleaning, and dissecting data from primary and secondary sources to curate a useful set of data
+* Using statistical tools and techniques to analyze the results and pinpoint trends and patterns
+* Providing reports of findings to management
+* Designing, creating and maintaining databases and data systems
+* Fixing code problems and data-related issues
+
 
 ### **_Required Education:_**
 A university education is required for this particular profession. The majority of entry-level positions require a bachelor's degree. The recommended disciplines for the bachelor’s degree include mathematics, finance, statistics, economics, or computer science. Master's or doctoral degrees are not necessary but provide data analysts more expertise and typically also guarantee larger salaries.
@@ -32,7 +43,7 @@ In Toronto, Ontario, the average yearly wage for a data analyst is $64,597 with 
 * _Senior level:_ 75k to 100k
 
 
---- 
+---
 
 ## **Standard Education** 
 
