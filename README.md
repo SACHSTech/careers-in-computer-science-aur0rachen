@@ -162,3 +162,30 @@ You will support information sharing and research development within the departm
 * Demonstrated ability to function as an integral member of project team as well as individually
 * Knowledgeable of current hardware and software computer environment and project management and systems development life cycle methodology
 * Must have or rapidly acquire a comprehensive knowledge of the Ontario Human Rights Code and Related Orders including disability accommodation and accessibility requirements pertaining to passengers and employees
+
+---
+
+## **Works Cited** 
+CareerExplorer. “How to Become a Data Analyst.” CareerExplorer, CareerExplorer, 19 Oct. 2020, https://www.careerexplorer.com/careers/data-analyst/how-to-become/. 
+
+“Data Analyst Co Op Jobs (with Salaries) 2022.” Indeed, https://ca.indeed.com/Data-Analyst-Co-Op-jobs. 
+
+“Data Analyst Jobs (with Salaries) 2022.” Indeed, https://ca.indeed.com/Data-Analyst-jobs. 
+
+Data Analyst Jobs in Toronto, on - Indeed. https://ca.indeed.com/Data-Analyst-jobs-in-Toronto,-ON. 
+
+Data Image. https://assets.bizclikmedia.net/1800/912bf0f6a8628ac2908cbcd11877f928:707c036dfecd051980201247b72f3bee/gettyimages-638855738-3-jpeg.webp.jpg. 
+
+“Data Science Degree.” Undergraduate Programs, 27 June 2022, https://uwaterloo.ca/future-students/programs/data-science. 
+
+Duggal, Nikita. “Data Analyst Salary Toronto for 2023: Experience-Wise Salary Included: Simplilearn.” Simplilearn.com, Simplilearn, 31 Oct. 2022, https://www.simplilearn.com/data-analyst-salary-toronto-article. 
+
+“Entry Level Data Analyst Jobs (with Salaries) 2022.” Indeed, https://ca.indeed.com/Entry-Level-Data-Analyst-jobs. 
+
+“Government of Alberta Jobs in Canada.” Indeed, https://ca.indeed.com/cmp/Government-of-Alberta/jobs. 
+
+“Home.” Brand, 3 Dec. 2020, https://uwaterloo.ca/brand/. 
+
+Monorien, Aghogho. “20 Fun (and Unique) Data Analyst Projects for Beginners in 2023.” Dataquest, 24 Dec. 2022, https://www.dataquest.io/blog/data-analyst-projects-for-beginners/. 
+
+“Senior Data Analyst Jobs, Employment | Indeed.com.” Indeed, https://www.indeed.com/q-Senior-Data-Analyst-jobs.html. 
