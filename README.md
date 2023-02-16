@@ -5,7 +5,7 @@
 
 --- 
 
-## The Basics 
+## **The Basics** 
 ### **_Description of Career and Responsibilities:_**
 >Data analysts determine ways to use data to address issues and find solutions. They examine current events using computer systems and calculation applications in order to spot trends and anticipate the future. They identify, collect, analyze and interpret large sets of data. They act as investigators, deducing how things operate and assisting in the interpretation of events. It may be a rewarding, stimulating, and creative career path.
 
@@ -42,7 +42,6 @@ In Toronto, Ontario, the average yearly wage for a data analyst is $64,597 with 
 * _Midlevel:_ 55k to 75k
 * _Senior level:_ 75k to 100k
 
-
 ---
 
 ## **Standard Education** 
@@ -77,6 +76,16 @@ The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-
 * After first year, most required courses will be in Statistics and Computer Science, along with additional foundational courses in Mathematics.
 * Should a student choose the co-op option, a work-term report will also be required.
 * All students must successfully complete two communications courses
+
+---
+
+## **Experiential Learning**
+
+### **_Self-starter projects:_**
+Other ways one could obtain valuable data analyst related experience include working on your technical skills and familiarizing yourself with programs such as Microsoft Excel, SQL, Python, R, Tableau, and Power BI. Simple self-starter projects include building an Excel Call Center Dashboard or Web Scraping NBA Stats in Python. In addition to gaining experience on these commonly used applications, you will also be practicing skills such as data collection and analysis. 
+
+
+
 
 ---
 
