@@ -81,6 +81,8 @@ The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-
 
 ## **Experiential Learning**
 
+<img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/11/data-analysis-tools.png" height="200">
+
 ### **_Self-starter projects:_**
 Other ways one could obtain valuable data analyst related experience include working on your technical skills and familiarizing yourself with programs such as Microsoft Excel, SQL, Python, R, Tableau, and Power BI. Simple self-starter projects include building an Excel Call Center Dashboard or Web Scraping NBA Stats in Python. In addition to gaining experience on these commonly used applications, you will also be practicing skills such as data collection and analysis. 
 
@@ -90,6 +92,7 @@ A co-op/internship program is an opportunity for students to obtain work experie
 ---
 
 ## **Real Jobs** 
+<img src="https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2015/12/09112429/work-life-balance-working-from-home.jpg" height="200">
 
 ### **_Entry Level Position: [Energy Analyst](https://ca.indeed.com/jobs?q=Data+Analyst&l=&vjk=96a9b96b9a7a8490&advn=1684179505529221)_**
 
