@@ -48,7 +48,7 @@ In Toronto, Ontario, the average yearly wage for a data analyst is $64,597 with 
 
 <img src="https://uwaterloo.ca/brand/sites/ca.brand/files/universityofwaterloo_logo_horiz_rgb.png" height="150">
 
-The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-science) offers a Data Science program under the Faculty of Mathematics. It is available as a regular or co-op program. After _4 years_, if the student has completed all of the necessary requirements, they are able to graduate with a Bachelor of Computer Science or a Bachelor of Mathematics in Data Science.
+The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-science) offers a Data Science program under the Faculty of Mathematics. It is available as a regular or co-op program. After **_4 years_**, if the student has completed all of the necessary requirements, they are able to graduate with a Bachelor of Computer Science or a Bachelor of Mathematics in Data Science.
 
 ### **_Entrance Requirements:_**
 
