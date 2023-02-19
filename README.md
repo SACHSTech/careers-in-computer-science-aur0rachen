@@ -181,6 +181,8 @@ Data Image. https://assets.bizclikmedia.net/1800/912bf0f6a8628ac2908cbcd11877f92
 
 “Data Science Degree.” Undergraduate Programs, 27 June 2022, https://uwaterloo.ca/future-students/programs/data-science. 
 
+“Data Analysis Tools.” Software Testing Help, https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/11/data-analysis-tools.png.
+
 Duggal, Nikita. “Data Analyst Salary Toronto for 2023: Experience-Wise Salary Included: Simplilearn.” Simplilearn.com, Simplilearn, 31 Oct. 2022, https://www.simplilearn.com/data-analyst-salary-toronto-article. 
 
 “Entry Level Data Analyst Jobs (with Salaries) 2022.” Indeed, https://ca.indeed.com/Entry-Level-Data-Analyst-jobs. 
@@ -192,3 +194,5 @@ Duggal, Nikita. “Data Analyst Salary Toronto for 2023: Experience-Wise Salary 
 Monorien, Aghogho. “20 Fun (and Unique) Data Analyst Projects for Beginners in 2023.” Dataquest, 24 Dec. 2022, https://www.dataquest.io/blog/data-analyst-projects-for-beginners/. 
 
 “Senior Data Analyst Jobs, Employment | Indeed.com.” Indeed, https://www.indeed.com/q-Senior-Data-Analyst-jobs.html. 
+
+Working From Home. https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2015/12/09112429/work-life-balance-working-from-home.jpg. 
