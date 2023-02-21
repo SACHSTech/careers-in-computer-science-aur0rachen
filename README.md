@@ -83,11 +83,12 @@ The [University of Waterloo](https://uwaterloo.ca/future-students/programs/data-
 
 <img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/11/data-analysis-tools.png" height="200">
 
+### **_Co-op Programs:_**
+A co-op/internship program is an opportunity for students to obtain work experience while also completing their degree. Many universities, including the University of Waterloo, allow for students to work in placement of a traditional lecture-style course. A co-op placement in a data analyst position can be helpful in developing the necessary skills required when joining the workforce. [Here](https://www.glassdoor.ca/job-listing/data-analyst-co-op-canada-life-JV_IC2281069_KO0,18_KE19,30.htm?jl=1008420624208&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) is an example of a co-op position as a data analyst. 
+
+
 ### **_Self-starter projects:_**
 Other ways one could obtain valuable data analyst related experience include working on your technical skills and familiarizing yourself with programs such as Microsoft Excel, SQL, Python, R, Tableau, and Power BI. Simple self-starter projects include building an Excel Call Center Dashboard or Web Scraping NBA Stats in Python. In addition to gaining experience on these commonly used applications, you will also be practicing skills such as data collection and analysis. 
-
-### **_Co-op Programs:_**
-A co-op/internship program is an opportunity for students to obtain work experience while also completing their degree. Many universities, including the University of Waterloo, allow for students to work in placement of a traditional lecture-style course. A co-op placement in a data analyst position can be helpful in developing the necessary skills required when joining the workforce. Here is an example of a co-op position as a data analyst. 
 
 ---
 
